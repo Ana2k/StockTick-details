@@ -1,4 +1,9 @@
 # StockTick-details
+Playstore Link to Stocktick App :
+[TAP HERE](https://play.google.com/store/apps/details?id=in.stocktick.stocktick&authuser=0)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Worked on implementing the login signup pages.
 <table>
 <tr>
