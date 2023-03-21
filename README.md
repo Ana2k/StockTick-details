@@ -6,7 +6,7 @@ Playstore Link to Stocktick App :
 *Worked on creating this app from scratch. The design of the flow of application. 
 Along with migration from Java to Kotlin for the application.
 
-*Specific to in-app pages and features :
+* FOLLOWING DETAILS ARE SPECIFIC TO IN-APP PAGES AND FEATURES :
 
 Worked on implementing the login signup pages.
 <table>
