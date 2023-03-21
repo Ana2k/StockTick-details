@@ -3,6 +3,10 @@ Playstore Link to Stocktick App :
 [TAP HERE](https://play.google.com/store/apps/details?id=in.stocktick.stocktick&authuser=0)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+*Worked on creating this app from scratch. The design of the flow of application. 
+Along with migration from Java to Kotlin for the application.
+
+*Specific to in-app pages and features :
 
 Worked on implementing the login signup pages.
 <table>
@@ -38,7 +42,6 @@ And the navigation bar - design to code implementation for the overall applicati
   </td>
 </tr>
 </table>
-Along with final chromeView opening, success login, API hitting confirmation etc
 
 Network API calls and retrofit handling for the pages.
 <table>
@@ -48,4 +51,12 @@ Network API calls and retrofit handling for the pages.
 </tr>
 </table>
 
-Conversion of existing codebase from java to kotlin.
+Along with final chromeView opening, success login, API hitting confirmation etc
+<table>
+<tr>
+  <td><img width="325" height ="650" src= "https://user-images.githubusercontent.com/54909114/226614389-7f95c8b3-3452-4709-9205-ef9c02e3b133.jpg" >
+  </td>
+</tr>
+</table>
+
+
